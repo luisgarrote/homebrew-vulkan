@@ -33,7 +33,7 @@ cask 'vulkan-sdk' do
   DEST_SHARE_REGISTRY        = "/usr/local/share/vulkan/registry"
 
   mylist = version.split(".")
-  lib_version = mylist[0] + "." + mylist[1] + "." + mylist[2]+ "." + mylist[3]
+  lib_version = mylist[0] + "." + mylist[1] + "." + mylist[2]
 
   #Vulkan Executable Binaries to Install
   #==============================
