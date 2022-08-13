@@ -2,7 +2,7 @@ cask 'vulkan-sdk' do
   version '1.3.216.0'
   sha256 'bef18c09eb31585587ec498a166b120361aac5d0486b940069ec0be3b6a9c65a'
 
-  url "/Users/luisgarrote/Documents/Untitled3.dmg"
+  url "file:///Users/luisgarrote/Documents/Untitled3.dmg"
   name 'LunarG Vulkan SDK'
   homepage 'https://vulkan.lunarg.com/sdk/home'
 
